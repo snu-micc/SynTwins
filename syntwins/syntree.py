@@ -361,11 +361,11 @@ class SynTree:
         for i, (analog, result) in enumerate(self.analogs.items()):
             if i == show_n:
                 break
-            print ('Rank %d: %s' % (i+1, analog))
+            print ('Rank %d twin: %s' % (i+1, analog))
             print ('Similarity=%.2f' % (result['similarity']))
-            print ('Reference:', result['reference'])
-            print ('Building blocks: %s;%s' % (result['bblocks'], result['reaction']))
-            print ('Precursors for building blocks:', result['bb_precursors'])
+            print ('Reference precursors:', result['reference'])
+            print ('Twin precursors: %s;%s' % (result['bblocks'], result['reaction']))
+            print ('Precursors of twin precursors:', result['bb_precursors'])
             display(Chem.MolFromSmiles(analog))
         return 
     
