@@ -1,0 +1,3 @@
+population_size: 100
+offspring_size: 100
+mutation_rate: 0.1

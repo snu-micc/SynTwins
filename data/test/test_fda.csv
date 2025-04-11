@@ -1,0 +1,101 @@
+drug name,ingredient name,SMILES,approval date
+Alyftrek?,vanzacaftor,CC1(C)CC2CCCNc3cccc(n3)S(=O)(=O)NC(=O)c3ccc(-n4ccc(OCCC5C6(CC6)C56CC6)n4)nc3N1C2,12/20/2024
+Alyftrek?,tezacaftor,CC(C)(CO)c1cc2cc(NC(=O)C3(c4ccc5c(c4)OC(F)(F)O5)CC3)c(F)cc2n1CC(O)CO,12/20/2024
+Alyftrek?,deutivacaftor,CC(C)(C)c1cc(C(C)(C)C)c(NC(=O)c2c[nH]c3ccccc3c2=O)cc1O,12/20/2024
+Ensacove,ensartinib,CC1CN(C(=O)c2ccc(NC(=O)c3cc(OC(C)c4c(Cl)ccc(F)c4Cl)c(N)nn3)cc2)CC(C)N1,12/18/2024
+Crenessity,crinecerfont,C#CCN(c1nc(-c2cc(C)c(OC)cc2Cl)c(C)s1)C(CC1CC1)c1ccc(C)c(F)c1,12/13/2024
+Iomervu,iomeprol,CN(C(=O)CO)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I,11/27/2024
+Rapiblyk,landiolol,CC1(C)OCC(COC(=O)CCc2ccc(OCC(O)CNCCNC(=O)N3CCOCC3)cc2)O1,11/22/2024
+Attruby,acoramidis,Cc1n[nH]c(C)c1CCCOc1cc(C(=O)O)ccc1F,11/22/2024
+Revuforj,revumenib,CCN(C(=O)c1cc(F)ccc1Oc1cncnc1N1CC2(CCN(CC3CCC(NS(=O)(=O)CC)CC3)CC2)C1)C(C)C,11/15/2024
+Orlynvah,sulopenem etzadroxil,CCC(CC)C(=O)OCOC(=O)C1=C(SC2CCS(=O)C2)SC2C(C(C)O)C(=O)N12,10/25/2024
+Orlynvah,probenecid,CCCN(CCC)S(=O)(=O)c1ccc(C(=O)O)cc1,10/25/2024
+Itovebi,inavolisib,CC(Nc1ccc2c(c1)OCCn1cc(N3C(=O)OCC3C(F)F)nc1-2)C(N)=O,10/10/2024
+Flyrcado,flurpiridaz F 18,CC(C)(C)n1ncc(OCc2ccc(COCCF)cc2)c(Cl)c1=O,9/27/2024
+Miplyffa,arimoclomol,[O-][n+]1cccc(C(Cl)=NOCC(O)CN2CCCCC2)c1,9/20/2024
+Lazcluze,lazertinib,C=CC(=O)Nc1cc(Nc2nccc(-n3cc(CN(C)C)c(-c4ccccc4)n3)n2)c(OC)cc1N1CCOCC1,8/19/2024
+Livdelzi,seladelpar,CCOC(COc1ccc(C(F)(F)F)cc1)CSc1ccc(OCC(=O)O)c(C)c1,8/14/2024
+Voranigo,vorasidenib,CC(Nc1nc(NC(C)C(F)(F)F)nc(-c2cccc(Cl)n2)n1)C(F)(F)F,8/6/2024
+Leqselvi,deuruxolitinib,N#CCC(C1CCCC1)n1cc(-c2ncnc3[nH]ccc23)cn1,7/25/2024
+Ohtuvayre,ensifentrine,COc1cc2c(cc1OC)-c1cc(=Nc3c(C)cc(C)cc3C)n(CCNC(N)=O)c(=O)n1CC2,6/26/2024
+Sofdra,sofpironium,CCOC(=O)C[N+]1(C)CCC(OC(=O)C(O)(c2ccccc2)C2CCCC2)C1,6/18/2024
+Iqirvo,elafibranor,CSc1ccc(C(=O)C=Cc2cc(C)c(OC(C)(C)C(=O)O)c(C)c2)cc1,6/10/2024
+Xolremdi,mavorixafor,NCCCCN(Cc1nc2ccccc2[nH]1)C1CCCc2cccnc21,4/26/2024
+Ojemda,tovorafenib,CC(NC(=O)c1ncnc(N)c1Cl)c1ncc(C(=O)Nc2cc(C(F)(F)F)c(Cl)cn2)s1,4/23/2024
+Zevtera,ceftobiprole medocaril sodium,Cc1oc(=O)oc1COC(=O)N1CCC(N2CCC(=CC3=C(C(=O)[O-])N4C(=O)C(NC(=O)C(=NO)c5nsc(N)n5)C4SC3)C2=O)C1.[Na+],4/3/2024
+Voydeya,danicopan,CC(=O)c1nn(CC(=O)N2CC(F)CC2C(=O)Nc2cccc(Br)n2)c2ccc(-c3cnc(C)nc3)cc12,3/29/2024
+Vafseo,vadadustat,O=C(O)CNC(=O)c1ncc(-c2cccc(Cl)c2)cc1O,3/27/2024
+Duvyzat,givinostat,CCN(CC)Cc1ccc2cc(COC(=O)Nc3ccc(C(=O)NO)cc3)ccc2c1,3/21/2024
+Tryvio,aprocitentan,NS(=O)(=O)Nc1ncnc(OCCOc2ncc(Br)cn2)c1-c1ccc(Br)cc1,3/19/2024
+Rezdiffra,resmetirom,CC(C)c1cc(Oc2c(Cl)cc(-n3nc(C#N)c(=O)[nH]c3=O)cc2Cl)n[nH]c1=O,3/14/2024
+Exblifep,cefepime,CON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[N+]3(C)CCCC3)CSC12)c1csc(N)n1,2/22/2024
+Exblifep,enmetazobactam,C[n+]1ccn(CC2(C)C(C(=O)[O-])N3C(=O)CC3S2(=O)=O)n1,2/22/2024
+Brenzavvy,bexagliflozin,OCC1OC(c2ccc(Cl)c(Cc3ccc(OCCOC4CC4)cc3)c2)C(O)C(O)C1O,1/20/2023
+Jaypirca,pirtobrutinib,COc1ccc(F)cc1C(=O)NCc1ccc(-c2nn(C(C)C(F)(F)F)c(N)c2C(N)=O)cc1,1/27/2023
+Orserdu,elacestrant ,CCNCCc1ccc(CN(CC)c2cc(OC)ccc2C2CCc3cc(O)ccc3C2)cc1,1/27/2023
+Jesduvroq,daprodustat,O=C(O)CNC(=O)C1C(=O)N(C2CCCCC2)C(=O)N(C2CCCCC2)C1=O,2/1/2023
+Filspari,sparsentan,CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2S(=O)(=O)Nc2noc(C)c2C)c(COCC)c1,2/17/2023
+Skyclarys,omaveloxolone,CC1(C)CCC2(NC(=O)C(C)(F)F)CCC3(C)C(C(=O)C=C4C5(C)C=C(C#N)C(=O)C(C)(C)C5CCC43C)C2C1,2/28/2023
+Zavzpret,zavegepant,Cc1cc(CC(NC(=O)N2CCC(c3cc4ccccc4[nH]c3=O)CC2)C(=O)N2CCN(C3CCN(C)CC3)CC2)cc2cn[nH]c12,3/9/2023
+Daybue,trofinetide,CC1(C(=O)NC(CCC(=O)O)C(=O)O)CCCN1C(=O)CN,3/10/2023
+Joenja,leniolisib,CCC(=O)N1CCC(Nc2ncnc3c2CN(c2cnc(OC)c(C(F)(F)F)c2)CC3)C1,3/24/2023
+Veozah,fezolinetant,Cc1nsc(-c2nnc3n2CCN(C(=O)c2ccc(F)cc2)C3C)n1,5/12/2023
+Miebo,perfluorhexyloctane,CCCCCCCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,5/18/2023
+Xacduro,sulbactam,CC1(C)C(C(=O)O)N2C(=O)CC2S1(=O)=O,5/23/2023
+Xacduro,durlobactam,CC1=CC2CN(C(=O)N2OS(=O)(=O)O)C1C(N)=O,5/23/2023
+Paxlovid,nirmatrelvir,CC(C)(C)C(NC(=O)C(F)(F)F)C(=O)N1CC2C(C1C(=O)NC(C#N)CC1CCNC1=O)C2(C)C,5/25/2023
+Paxlovid,ritonavir,CC(C)c1nc(CN(C)C(=O)NC(C(=O)NC(Cc2ccccc2)CC(O)C(Cc2ccccc2)NC(=O)OCc2cncs2)C(C)C)cs1,5/25/2023
+Inpefa,sotagliflozin,CCOc1ccc(Cc2cc(C3OC(SC)C(O)C(O)C3O)ccc2Cl)cc1,5/26/2023
+Litfulo,ritlecitinib,C=CC(=O)N1CC(Nc2ncnc3[nH]ccc23)CCC1C,6/23/2023
+Vanflyta,quizartinib,CC(C)(C)c1cc(NC(=O)Nc2ccc(-c3cn4c(n3)sc3cc(OCCN5CCOCC5)ccc34)cc2)no1,7/20/2023
+Xdemvy,lotilaner,Cc1cc(C2=NOC(c3cc(Cl)c(Cl)c(Cl)c3)(C(F)(F)F)C2)sc1C(=O)NCC(=O)NCC(F)(F)F,7/25/2023
+Zurzuvae,zuranolone,CC1(O)CCC2C(CCC3C2CCC2(C)C(C(=O)Cn4cc(C#N)cn4)CCC32)C1,8/4/2023
+Sohonos,palovarotene,CC1(C)CCC(C)(C)c2cc(Cn3cccn3)c(C=Cc3ccc(C(=O)O)cc3)cc21,8/16/2023
+Ojjaara,momelotinib,N#CCNC(=O)c1ccc(-c2ccnc(Nc3ccc(N4CCOCC4)cc3)n2)cc1,9/15/2023
+Exxua,gepirone,CC1(C)CC(=O)N(CCCCN2CCN(c3ncccn3)CC2)C(=O)C1,9/22/2023
+Velsipity,etrasimod,O=C(O)CC1CCc2c1[nH]c1ccc(OCc3ccc(C4CCCC4)c(C(F)(F)F)c3)cc21,10/12/2023
+Agamree,vamorolone,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3=CCC2(C)C1(O)C(=O)CO,10/26/2023
+Fruzaqla,fruquintinib,CNC(=O)c1c(C)oc2cc(Oc3ncnc4cc(OC)c(OC)cc34)ccc12,11/8/2023
+Defencath,taurolidine,O=S1(=O)CCN(CN2CCS(=O)(=O)NC2)CN1,11/15/2023
+Augtyro,repotrectinib,CC1CNC(=O)c2cnn3ccc(nc23)NC(C)c2cc(F)ccc2O1,11/15/2023
+Truqap,capivasertib,NC1(C(=O)NC(CCO)c2ccc(Cl)cc2)CCN(c2ncnc3[nH]ccc23)CC1,11/16/2023
+Ogsiveo,nirogacestat,CCCC(NC1CCc2cc(F)cc(F)c2C1)C(=O)Nc1cn(C(C)(C)CNCC(C)(C)C)cn1,11/27/2023
+Fabhalta ,iptacopan,CCOC1CCN(Cc2c(OC)cc(C)c3[nH]ccc23)C(c2ccc(C(=O)O)cc2)C1,12/5/2023
+Krazati,adagrasib,C=C(F)C(=O)N1CCN(c2nc(OCC3CCCN3C)nc3c2CCN(c2cccc4cccc(Cl)c24)C3)CC1CC#N,12/12/2022
+Rezlidhia,olutasidenib,CC(Nc1ccc(C#N)n(C)c1=O)c1cc2cc(Cl)ccc2[nH]c1=O,12/1/2022
+Lytgobi,futibatinib,C=CC(=O)N1CCC(n2nc(C#Cc3cc(OC)cc(OC)c3)c3c(N)ncnc32)C1,9/30/2022
+Sotyktu,deucravacitinib,CNC(=O)c1nnc(NC(=O)C2CC2)cc1Nc1cccc(-c2ncn(C)n2)c1OC,9/9/2022
+Vtama,tapinarof,CC(C)c1c(O)cc(C=Cc2ccccc2)cc1O,5/23/2022
+Voquezna,vonoprazan,CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1,5/3/2022
+Voquezna,amoxicillin,CC1(C)SC2C(NC(=O)C(N)c3ccc(O)cc3)C(=O)N2C1C(=O)O,5/3/2022
+Camzyos,mavacamten,CC(Nc1cc(=O)n(C(C)C)c(=O)[nH]1)c1ccccc1,4/28/2022
+Vivjoa,oteseconazole,OC(Cn1cnnn1)(c1ccc(F)cc1F)C(F)(F)c1ccc(-c2ccc(OCC(F)(F)F)cc2)cn1,4/26/2022
+Ztalmy,ganaxolone,CC(=O)C1CCC2C3CCC4CC(C)(O)CCC4(C)C3CCC12C,3/18/2022
+Vonjo,pacritinib,C1=CCOCc2cc(ccc2OCCN2CCCC2)Nc2nccc(n2)-c2cccc(c2)COC1,2/28/2022
+Pyrukynd,mitapivat,O=C(c1ccc(NS(=O)(=O)c2cccc3cccnc23)cc1)N1CCN(CC2CC2)CC1,2/17/2022
+Cibinqo,abrocitinib,CCCS(=O)(=O)NC1CC(N(C)c2ncnc3[nH]ccc23)C1,1/14/2022
+Quviviq,daridorexant,COc1ccc(-n2nccn2)c(C(=O)N2CCCC2(C)c2nc3c(C)c(Cl)ccc3[nH]2)c1,1/7/2022
+Livtencity,maribavir,CC(C)Nc1nc2cc(Cl)c(Cl)cc2n1C1OC(CO)C(O)C1O,11/23/2021
+Scemblix,asciminib,O=C(Nc1ccc(OC(F)(F)Cl)cc1)c1cnc(N2CCC(O)C2)c(-c2ccn[nH]2)c1,10/29/2021
+Tavneos,avacopan,Cc1ccc(NC(=O)C2CCCN(C(=O)c3c(C)cccc3F)C2c2ccc(NC3CCCC3)cc2)cc1C(F)(F)F,10/7/2021
+Livmarli,maralixibat,CCCCC1(CCCC)CS(=O)(=O)c2ccc(N(C)C)cc2C(c2ccc(OCc3ccc(C[N+]45CCN(CC4)CC5)cc3)cc2)C1O,9/29/2021
+Qulipta,atogepant,CC1C(c2c(F)ccc(F)c2F)CC(NC(=O)c2cnc3c(c2)CC2(C3)C(=O)Nc3ncccc32)C(=O)N1CC(F)(F)F,9/28/2021
+Exkivity,mobocertinib,C=CC(=O)Nc1cc(Nc2ncc(C(=O)OC(C)C)c(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C,9/15/2021
+Korsuva,difelikefalin,CC(C)CC(NC(=O)C(Cc1ccccc1)NC(=O)C(N)Cc1ccccc1)C(=O)NC(CCCCN)C(=O)N1CCC(N)(C(=O)O)CC1,8/23/2021
+Welireg,belzutifan,CS(=O)(=O)c1ccc(Oc2cc(F)cc(C#N)c2)c2c1C(O)C(F)C2F,8/13/2021
+Rezurock,belumosudil,CC(C)NC(=O)COc1cccc(-c2nc(Nc3ccc4[nH]ncc4c3)c3ccccc3n2)c1,7/16/2021
+Fexinidazole,fexinidazole,CSc1ccc(OCc2ncc([N+](=O)[O-])n2C)cc1,7/16/2021
+Kerendia,finerenone,CCOc1ncc(C)c2c1C(c1ccc(C#N)cc1OC)C(C(N)=O)=C(C)N2,7/9/2021
+Truseltiq,infigratinib,CCN1CCN(c2ccc(Nc3cc(N(C)C(=O)Nc4c(Cl)c(OC)cc(OC)c4Cl)ncn3)cc2)CC1,5/28/2021
+Lumakras,sotorasib,C=CC(=O)N1CCN(c2nc(=O)n(-c3c(C)ccnc3C(C)C)c3nc(-c4c(O)cccc4F)c(F)cc23)C(C)C1,5/28/2021
+Pylarify,piflufolastat F 18 ,O=C(O)CCC(NC(=O)NC(CCCCNC(=O)c1ccc(F)nc1)C(=O)O)C(=O)O,5/26/2021
+Qelbree,viloxazine,CCOc1ccccc1OCC1CNCCO1,4/2/2021
+Ponvory,ponesimod,CCCN=C1SC(=Cc2ccc(OCC(O)CO)c(Cl)c2)C(=O)N1c1ccccc1C,3/18/2021
+Fotivda,tivozanib,COc1cc2nccc(Oc3ccc(NC(=O)Nc4cc(C)on4)c(Cl)c3)c2cc1OC,3/10/2021
+Azstarys,serdexmethylphenidate,COC(=O)C(c1ccccc1)C1CCCCN1C(=O)OC[n+]1cccc(C(=O)NC(CO)C(=O)[O-])c1,3/2/2021
+Pepaxto,melphalan flufenamide,CCOC(=O)C(Cc1ccc(F)cc1)NC(=O)C(N)Cc1ccc(N(CCCl)CCCl)cc1,2/26/2021
+Nulibry,fosdenopterin,Nc1nc2c(c(=O)[nH]1)NC1C(N2)OC2COP(=O)(O)OC2C1(O)O,2/26/2021
+Amondys 45,casimersen,CN(C)P(=O)(OCC1CNCC(n2ccc(N)nc2=O)O1)N1CCN(C(=O)OCCOCCOCCO)CC1,2/25/2021
+Ukoniq,umbralisib,CC(C)Oc1ccc(-c2nn(C(C)c3oc4ccc(F)cc4c(=O)c3-c3cccc(F)c3)c3ncnc(N)c23)cc1F,2/5/2021
+Tepmetko,tepotinib,CN1CCC(COc2cnc(-c3cccc(Cn4nc(-c5cccc(C#N)c5)ccc4=O)c3)nc2)CC1,2/3/2021
+Verquvo,vericiguat,COC(=O)Nc1c(N)nc(-c2nn(Cc3ccccc3F)c3ncc(F)cc23)nc1N,1/19/2021
